@@ -2,4 +2,4 @@
 
 CodeAlpha Internship Task
 
-This project identifies human emotions from speech audio using deep learning.
+This project identifies human emotions from speech audio using machine learning.
